@@ -1,0 +1,2 @@
+# servidor
+servidor do mine
